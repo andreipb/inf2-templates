@@ -8,6 +8,6 @@
 #ifndef MINIMUM_H
 #define MINIMUM_H
 
-template <typename T> T minimum(T, T);
+template <typename T> T minimum(T, T); 
 
 #endif /* MINIMUM_H */

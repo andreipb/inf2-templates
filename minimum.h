@@ -1,7 +1,7 @@
 /* 
  * File:   minimum.h
  * Author: Andrei
- *
+ * Scope: demonstrate a template declaration without definition.
  * Created on 6. mars 2019, 08:35
  */
 

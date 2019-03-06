@@ -1,7 +1,8 @@
 /* 
  * File:   maximum.h
- * Author: Andrei
- *
+ * Author: Andrei Popescu-Belis
+ * Scope: demonstrate the use of templates with 
+ * declaration and definition in header file
  * Created on 6. mars 2019, 08:59
  */
 

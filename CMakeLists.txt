@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.17)
-project(infinite_loop_break)
+project(inf2-templates)
 
 set(CMAKE_CXX_STANDARD 17)
 

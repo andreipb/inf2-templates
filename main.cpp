@@ -23,14 +23,14 @@ int main() {
     {
         int a = 3; // 'int' est le seul type accepté ici
         int b = 2; // 'minimum<float>' n'aide pas, car la déf. est dans .cpp
-        cout << "Minimum entre a et b : " << minimum(a, b)
+        cout << "Minimum entre les variables a et b : " << minimum(a, b)
                 << " de type : " << typeid (minimum(a, b)).name() << endl;
     }
     
     {
         float a = 3.f;
         float b = 2.f;
-        cout << "Maximum entre a et b : " << maximum(a, b)
+        cout << "Maximum entre les variables a et b : " << maximum(a, b)
                 << " de type : " << typeid (maximum(a, b)).name() << endl;
     }
 
